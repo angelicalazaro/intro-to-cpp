@@ -54,3 +54,35 @@ clang++ -std=c++20 main.cpp -o main
 # Run the compiled program
 ./main
 or F6 with C/C++ Compile Run extension in CS Code
+
+## Data Types
+
+    Bool (Boolean):
+    Logical value
+    Can be True or False
+    Size: 4 bytes
+
+    Int (Integer):
+    Whole numbers
+    Size: 4 bytes
+
+    Float:
+    Decimal numbers (floating point)
+    Size: 4 bytes
+
+    Double:
+    Double-precision floating point numbers
+    Size: 8 bytes (4 + 4 = double float)
+
+    Char (Character):
+    Character (ASCII)
+    Displays the character or its ASCII number
+    Size: 4 bytes
+
+We also have:
+
+    Short Int
+
+    Unsigned Int
+
+    Long Double

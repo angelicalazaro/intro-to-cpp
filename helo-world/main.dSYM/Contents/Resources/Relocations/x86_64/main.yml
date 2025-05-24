@@ -1,9 +1,0 @@
----
-triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/angelicalazaro/Documents/Proyectos 2025/Platzi/Intro-cpp/main'
-relocations:
-  - { offset: 0x5160, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x15C0B, symBinAddr: 0x100002000, symSize: 0x0 }
-  - { offset: 0x52C2, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_main.cpp, symObjAddr: 0x6A, symBinAddr: 0x1000007AD, symSize: 0xB }
-  - { offset: 0x52D9, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x31, symBinAddr: 0x100000774, symSize: 0x39 }
-  - { offset: 0x52F7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000750, symSize: 0x24 }
-...

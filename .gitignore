@@ -1,0 +1,19 @@
+# Ignore all output folders recursively
+output/
+
+# Ignore VSCode settings
+.vscode/ 
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore build artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore debug symbols
+*.dSYM/
+*.main.dSYM/
+*.Contents.dSYM/
